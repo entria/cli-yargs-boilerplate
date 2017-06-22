@@ -32,11 +32,11 @@
   "jsnext:main": "src/index.js",
   "keywords": [
     "boilerplate",
-    "yargs",
     "cli",
     "command",
-    "line",
     "interface",
+    "line",
+    "yargs"
   ],
   "license": "MIT",
   "lint-staged": {
