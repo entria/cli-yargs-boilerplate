@@ -11,7 +11,7 @@ export type Argv = {|
 |};
 
 const usage = 'Usage: $0 --args1 <arg1>';
-const docs = 'Documentation: https://github.com/entria/cli-boilerplate';
+const docs = 'Documentation: https://github.com/entria/cli-yargs-boilerplate';
 const options = {
   arg1: {
     default: 'arg1',
